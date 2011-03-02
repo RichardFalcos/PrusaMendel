@@ -2,6 +2,11 @@ Open3DP - Forms for Mold Making
 
 Open3DP.me.washington.edu
 
+2011-Mar-1  Replaced Mold_4_Vertex_W_Foot with jnfischer version from Thingiverse
+2011-Mar-1  Replaced Mold_4_Vertex_WO_Foot with jnfischer version from Thingiverse
+2011-Mar-1  Add a new mold for belt clamps and Z-bar clamps.
+2011-Mar-1  Added FAQ.txt
+
 2011-Feb-21 Add new version of Mold_4_ZMotor Without bushings.
 2011-Feb-21 Add new version of Mold_4_BushX6.
 2011-Feb-21 Remove old Mold_4_ZMotor_W_BushX6.

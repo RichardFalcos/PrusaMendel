@@ -1,0 +1,10 @@
+Open3DP - Forms for Mold Making
+
+Open3DP.me.washington.edu
+
+Q:) Where are the source files for this project?  All I see is STL files?
+
+A:) The STL files are the source files.   I read the Prusa STL files into 
+Rhino and directly modified the files using the MESH tools in Rhino.
+
+...M
